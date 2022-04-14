@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="quotes" label="Quote" language="en" table="x_799599_quotes_quotes">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>quotes</element>
+            <help/>
+            <hint/>
+            <label>Quote</label>
+            <language>en</language>
+            <name>x_799599_quotes_quotes</name>
+            <plural>Quotes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-13 20:23:45</sys_created_on>
+            <sys_id>b33e2d1a0732411044b9f7d08c1ed08b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Quote</sys_name>
+            <sys_package display_value="Quotes" source="x_799599_quotes">286669de07fe011044b9f7d08c1ed0ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Quotes">286669de07fe011044b9f7d08c1ed0ac</sys_scope>
+            <sys_update_name>sys_documentation_x_799599_quotes_quotes_quotes_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-13 21:43:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
